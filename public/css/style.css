@@ -1,0 +1,142 @@
+.fill {
+    background-color: #31AC31;
+    
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.fill-user {
+    background-color: #AB278B;
+}
+
+.purple-color {
+    color: #D921D9;
+}
+
+.red-color {
+    color: red;
+}
+
+.blue-color {
+    color: blue;
+}
+
+.fill-green {
+    background-color: #7EC17E;
+}
+
+.text-area {
+    resize: none;
+}
+
+.category {
+    color: green;
+}
+
+.light-gray {
+    background-color: #D1D5DC;
+}
+
+.profile {
+    background-color: white;
+}
+
+.fill-profile {
+    background-color: #A06AA0;
+}
+
+.write-article {
+    background-color: #5F0B5F;
+   
+}
+
+.button-top {
+    margin-top: 5px;
+}
+
+.button-left {
+    margin-left: 5px;
+}
+
+.button-right {
+    margin-right: 5px;
+}
+
+.button-bottom {
+    margin-bottom: 5px;
+}
+
+.margin-right {
+    margin-right: 20px;
+}
+
+.margin-left {
+    margin-left: 20px;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.margin-bottom {
+    margin-bottom: 20px;
+}
+
+.fill img {
+    width: 100%;
+}
+
+.bigger-margin-top {
+    margin-top: 40px;
+}
+
+.bigger-margin-bottom {
+    margin-bottom: 40px;
+}
+
+.bigger-margin-left {
+    margin-left: 40px;
+}
+
+.bigger-margin-right {
+    margin-right: 40px;
+}
+
+.color {
+    color: #5D4C8B;
+}
+
+.comment-border {
+    border: 2px solid white;
+    padding: 5px;
+}
+
+.article-border {
+    border: 1px solid green;
+}
+
+.base-padding {
+    padding: 5px;
+}
+
+.no-margine {
+    margin: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
